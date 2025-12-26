@@ -89,7 +89,5 @@ Learning Outcomes:
 End-to-end customer analytics pipeline
 ML implementation for business problems
 Statistical A/B testing methodology
-
 UAE-specific market analysis
-
 Actionable insight generation
