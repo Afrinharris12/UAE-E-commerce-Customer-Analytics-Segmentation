@@ -48,28 +48,6 @@ Churn Prediction: Random Forest Classifier (85% accuracy)
 CLV Prediction: Regression model for lifetime value estimation
 Recommendation System: Collaborative filtering for product suggestions
 
-Files in Repository:
-text
-📁 UAE-Ecommerce-Analytics/
-├── data/
-│   ├── uae_ecommerce_customers.csv
-│   └── data_dictionary.md
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_customer_segmentation.ipynb
-│   ├── 03_churn_prediction.ipynb
-│   └── 04_ab_testing_analysis.ipynb
-├── src/
-│   ├── data_processing.py
-│   ├── ml_models.py
-│   └── visualization.py
-├── sql/
-│   ├── customer_queries.sql
-│   └── cohort_analysis.sql
-├── reports/
-│   ├── business_insights.pdf
-│   └── dashboard_screenshots/
-└── README.md (this file)
 
 
 UAE Market Relevance:
